@@ -3,4 +3,3 @@ plotly
 plotly.express
 matplotlib
 seaborn
-plotly.graph_objects
